@@ -68,4 +68,4 @@ dotnet run --project KeyEventLogger
 ## Öğrenci
 
 - **Ad Soyad:** Samet Sel
-- **Öğrenci No:** `BURAYA-OGRENCI-NUMARASI`
+- **Öğrenci No:** 215542008
